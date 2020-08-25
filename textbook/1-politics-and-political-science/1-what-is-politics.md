@@ -42,9 +42,10 @@
 ### Rational
 * People know what they want
     * To safeguard life and property, people form governments. If those governments become abusive, the people have the right to dissolve them and start anew - John Locke
+        * American are influenced by John Locke fundamentally
 
 * note
-    * rational reaons is a more convincing and proper reason for people to form political power.
+    * rational reason is a more convincing and proper reason for people to form political power.
         * ruler will not control power and fool people
         * ruler has to consider opinions of people
 

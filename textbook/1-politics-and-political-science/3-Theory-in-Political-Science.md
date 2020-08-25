@@ -78,5 +78,74 @@
         1. rule base
         2. citizen opinions (create new law to reflect opinions of citizens )
 
+## System Theory
+* postwar political system - David Easton
+    * Benefit
+        * simplify reality
+        * easy to understand
+    * flaw
+        * depart from reality
+
+### Original model of political system
+* Diagram
+    1. input
+        * citizens
+            * Demands
+            * Apathy
+            * Supports
+    2. Conversion Process
+        * inputs are recognized by following
+            * Government
+            * Decision Makers
+    3. outputs
+        * gov
+            * Decision and actions
+        * impact
+            * Social
+            * Economic
+            * Political Environment
+    4. citizens feedback
+    5. back to first step
+
+* Examples
+    * Simplify Reality
+        * The Nixon administration end the draft in 1973
+            * feedback from citizens
+    * Depart from reality
+        * gov do not care the feedback of citizens
+            * Hitler's German Government
+            * Soviet Bloc
+    * Can't explain
+        * Vietnam war
+            * American do not require the gov to participate Vietnam War
+
+### Modified Model of Political System
+* Diagram
+    1. Government + Decision Makers + Withinputs (citizen feedback)
+    2. outputs
+        * Decisions and actions
+        * impact
+            * Social
+            * Economic
+            * Political Environment
+    3. Results
+    4. Inputs
+        * Demands
+        * Apathy
+        * Supports
+    5. feedback
+    6. back to first step
+
+* example
+    * Afghanistan War
+        * initiated by gov and is supported by citizens. Later on, citizens opposed the expensive occupation so gov try to withdraw troops from Afghanistan
+### Rational-Choice Theory
+* Rational-choine theorists argue that one can generally predict political behavior by knowing the interests of the actors involved because they rationally maximize their interests.
+    * all actors are rational
+* game-theory
+
+
 ## People
 * Auguste Comte
+* David Easton
+    * model of political system
