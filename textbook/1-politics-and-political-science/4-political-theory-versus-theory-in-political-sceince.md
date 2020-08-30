@@ -4,7 +4,7 @@
         * more pratical, realistic
         * try to understand how things **do** work ?
     * political theorists
-        * more abstract, theoritical, idealistic
+        * more abstract, theoretical, idealistic
         * try to understand how things should work ?
 
 ## The Normative Study of Politics
@@ -26,8 +26,8 @@
             * comprise with both normative and descriptive approach
                 * send students out to different Greek city-states to collect firsthand data
             * try to prescribe most desirable political institutions
-* goal
-    * find good and stale political system
+* goal of political science study
+    * find good and stable political system
     * convention of political study
         1. describe and explain a political system
         2. apply it to normative questions
@@ -77,6 +77,7 @@
     * laid the philosophical groundwork for the French Revolution
     * state of nature
         * people lived as noble savages without artifice or jealousy
+    * quote: "Man is born free but everywhere is in chains"
     * society corrupt individual
         * society can be improved
             * good society
@@ -114,7 +115,7 @@
             * are suffered from bourgeoisie's rule
         * bourgeoisie
             * small amount
-            * own the means of production
+            * **own the means of production**
             * dictate society
             * try to maintain its properties / status
                 * the elite theorist

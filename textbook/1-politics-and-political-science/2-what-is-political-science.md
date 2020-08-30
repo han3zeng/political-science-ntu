@@ -28,6 +28,11 @@
             * why
             * does culture accept it
             * dose political system went wrong?
+    * why we need this
+        * has serious study
+        * objective
+            * ask right questions
+            * better understanding of the situation
 
 ## The Master Science
 * Aristotle
@@ -77,25 +82,25 @@
 
 ### Scholarship
 * Reasoned
-    * spell out youe reasoning
+    * spell out your reasoning
         * spell out underlying assumption
 * Balanced
     * admit your view is one among several
 * Supported with Evidence
     * two types of evidence
         1. quntified evidence of natural science
-        2. qualitatived evidence of the humanilities
+        2. qualitative evidence of the humanilities
     * need primary source
-        * secondary sourec (cited paper)
+        * secondary source (cited paper)
 * Theoretical
     * the brand new theory is not always necessary needed
-        * the minimum: the theoretical point should at least confrim or refute an existing theory.
-        * need pratical factors + emprical evidence
+        * the minimum: the theoretical point should at least confirm or refute an existing theory.
+        * need practical factors + empirical evidence
     * pattern: "Most of time there is C there is also D, and here's probably why."
     * ex:
         * Denounce people who join Islamic State with gusto (x)
         * Study why people join Islamic State(v)
-            * There are a lot of poeple join Islamic State in 2015, and here's probabaly why.
+            * There are a lot of people join Islamic State in 2015, and here's probably why.
 
 ## What Good is Political Science
 * Political Science is training in objective and often complex analysis, whereas the practice of politics requires fixed, popular and simplified opinions.
@@ -109,11 +114,11 @@
     * examples
         * Iranian overthrown Shah's regime in Iran
             * Political Scientist in U.S had predicted that Shah's regime is unstable
-            * Politics, for personal intreast, keep supporting Shah's regime
+            * Politics, for personal interest, keep supporting Shah's regime
                 * poll number?
         * Iraq invasion
-            * Politial Scientists: Iraq is not ready for democracy
-            * Plitics: support invasion
+            * Political Scientists: Iraq is not ready for democracy
+            * Politics: support invasion
                 * poll number?
 
 ## The Subfields of Political Science

@@ -1,43 +1,47 @@
 # What is Politics
 
 ## Political Science
-* is both a roic of study adn a method for studying its topic.
-* politics: what is politics
-* study politics with sceice: what makes the scientific method distinct from other ways to study politics.
+* is both a topic of study and a method for studying its topic.
+* study politics, we need to consider
+    * what is politics
+* study politics with science, we need to consider
+    * what makes the scientific method distinct from other ways to study politics.
 
 ## What is Politics
 * Abstract
-    * is ongoing competitionn between people, usually in gorups, to shape policy in their favor.
+    * is ongoing competition between people, usually in groups, to shape policy in their favor.
         * politics is ubiquitous and dose not exist only in government.
     * shape policy in their own favor
-    * Shape the beliefs and values of members of the society
+    * shape the beliefs and values of members of the society
 * is about power
-* maniuplation of symbols
+* manipulation of symbols
 * "who get what" - Harold Lasswell
 
 ## Political Power
 * politics is about power
     * power in politics (Political Power)
         * shape others behavior
-        * is getting people to do smoething they wouldn't otherwise do -- and someteims haveing them think it was their idea
+        * is getting people to do something they wouldn't otherwise do -- and sometimes having them think it was their idea
         * the ability of one person to get others to do his or her bidding.
 
 ## Why some people hold political power over others
 ### Biological
-* human by natuer is political animal
-* forming a politicla system and obeying its leaders are innate
+* human by nature is political animal
+* forming a political system and obeying its leaders are innate
     * counter argument: some people disobey authority
         * question: which circumstances promote or undermine the formation of political groups.
 
 ### Psychological
-* Psyhololgical studies has shown that most people are naturally conformist
+* Psychological studies has shown that most people are naturally conformist
     * Milgram study
-        * note: I don't agree study shows that people are naturally conformist. Say most student has been indoctrinated about the authority of professor and influenced by norm, beliefs that you have to repsect professor. So "slaves" will basically agree with whatever the master say but if you put a bunch of professors in to test maybe most of them will no push the button.
+        * note: I don't agree study shows that people are naturally conformist. Say most student has been indoctrinated about the authority of professor and influenced by norm, beliefs that you have to respect professor. So "slaves" will basically agree with whatever the master say but if you put a bunch of professors in to test maybe most of them will not push the button.
 
 ### Cultural
 * Human behavior that is learned as opposed to inherited
     * value + belief -> culture -> political community
         * to spread or even push people to follow your thought
+    * optimism
+        * believe that people's bad behavior can be altered by education
 
 ### Rational
 * People know what they want
@@ -80,6 +84,15 @@
 
 ## Concept and Percept
 * "Percepts without concepts are empty, and concepts without percepts are blind" - Immanuel Kant
+    * percept
+        * perceive through sensory organs
+            * facts, images, numbers, examples, etc.
+    * concept
+        * theory, idea, hypotheses, beliefs, etc
+
+## My Conclusion
+* What is politics
+    * politics is a competition for power so that individual or group can shape norm, symbol, value, belief in society. Eventually, the individual or group can make people to do that they want and eventually people will believe what they are doing is what they want
 
 ## People
 * Niccolo Machivelli (1469 - 1527)

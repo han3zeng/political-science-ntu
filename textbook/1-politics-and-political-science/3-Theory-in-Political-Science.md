@@ -3,9 +3,9 @@
 * facts without theory are just meaningless and useless
     * facts with theory -> coherent whole.
 * Theory
-    * help your to ask right questions in right order
-    * Theories are suggestions as to how the facts should be organized
-    * Theories are tested with observations
+    1. help your to ask right questions in right order
+    2. Theories are tested with observations
+    3. Theories are suggestions as to how the facts should be organized
 
 ## Theoretical Frameworks
 
@@ -14,12 +14,12 @@
     * traditional
         * abstract, concept
     * behavioral
-        * data driven
-    * postbehavioral
-        * combine traditional and behavorial viewpoints
+        * data-driven
+    * post-behavioral
+        * combine traditional and behavioral viewpoints
 
 * cause
-    * focus more on **institutions**
+    * traditionalism focus more on **institutions**
         * the formal structures of government
             * constitution (not practical, only get abstract concept)
               * result: good constitution but fail
@@ -37,7 +37,7 @@
             * valid data
             * scientific observation
     * less about
-        * intuition or specultion
+        * institution or speculation
     * feature
         * social(citizen)-base questions
         * examples
@@ -49,12 +49,12 @@
     * disadvantages
         * static
         * conservative
-        * irrevelent to the urgent tasks
+        * irrelevant to the urgent tasks
         * current situation === norm
             * exam only exist situation
-                * estabilshed democratic systems
+                * established democratic systems
             * prefer status quo
-                * negelect possibility of change
+                * neglect possibility of change
         * narrow scope
             * steer clear from big picture
                 * example
@@ -121,7 +121,12 @@
 
 ### Modified Model of Political System
 * Diagram
-    1. Government + Decision Makers + Withinputs (citizen feedback)
+    1. Government + Decision Makers + Withinputs
+        * Withinputs (short circuit in gov)
+            * pressure from different parts of gov
+                * lobbyists
+                * political scientist
+                * legislaturers
     2. outputs
         * Decisions and actions
         * impact
@@ -140,12 +145,17 @@
     * Afghanistan War
         * initiated by gov and is supported by citizens. Later on, citizens opposed the expensive occupation so gov try to withdraw troops from Afghanistan
 ### Rational-Choice Theory
-* Rational-choine theorists argue that one can generally predict political behavior by knowing the interests of the actors involved because they rationally maximize their interests.
+* Rational-Choice theorists argue that one can generally predict political behavior by knowing the interests of the actors involved because they rationally maximize their interests.
     * all actors are rational
 * game-theory
 
 
 ## People
 * Auguste Comte
+    * positivism
 * David Easton
     * model of political system
+
+
+## Questions
+* what is rational choice exactly
