@@ -96,7 +96,9 @@
     * theory of economics
     * theory of social class
     * theory of history
-* believe in Zeitgeist
+* beliebe in Zeitgeist
+    * spirit of age
+        * people from specific era cannot reproduce art from different era
 * Economics
     * roles
         * Proletariat
