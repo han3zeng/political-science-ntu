@@ -55,7 +55,7 @@
     * Milton Friedman (1912-2006)
         * influential economist in america
         * support free market
-        *
+        * warn people about the welfarism is expensive
     * Margaret Thatcher
     * Ronald Reagan
 * critics
