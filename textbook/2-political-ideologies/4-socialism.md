@@ -11,6 +11,11 @@
 * goal
     * overthrow capitalist system
 * leading thinker: Karl Marx
+* Marxist lead to two sub-divisions
+    * reformist and welfarist === social democracy
+        * reform the idea of Marxist
+    * Communism
+        * fully adopt the idea of Marxist
 
 ### Karl Marx (German)
 * bourgeoisie <-> proletarians
@@ -72,3 +77,73 @@
 * downside
     * welfarism is terribly expensive
     * high taxes
+
+
+## Communism
+* key people
+    * Vladimir I. Lenin (1870-1924)
+        * Marxism-Leninism
+* Marxism + Leninism => totalitarian party === communism
+
+* Difference  between Marxism and Leninism
+    * Marxist theory means to apply to only advanced Capitalist countries
+    * Leninism
+        * adopt the thought
+            *  from two people
+                1. Rosa Luxemburg - German
+                2. J. A. Hobson - English
+            * Capitalism depends on Imperialism
+                * the reason why capitalism do not collapse in advanced industrialized lands
+                    1. colonist
+                        * exploit the labor, materials and new markets of colony
+                        * Imperialist country pay off its proletarian by the profit from colony
+
+* Lenin fully embrace idea of revolution
+    * reason:
+        * facts
+            1. Britain and Germany are advanced Capitalism
+              * they depend on their Imperialism to maintain stable
+            2.  Russian and Spain are poor the Capitalism just start
+              * they will lose the competition
+        * conclusion
+            * Russia needs revolution to turn over the tide to undermine the Imperialism that Britain and Germany depend on
+
+* Goal Change
+    * Marxism: proletarian v.s bourgeoisie
+    * Leninism: nations v.s imperialist powers
+
+* Organization
+    * Lenin's party
+        * small
+        * secretive
+        * professional revolution
+        * tightly organized under central command
+    * path
+        * Russian Social Democratic Labor party splits
+            * ocassion: Brusell meeting to solve disputes
+                1. Bolshevik (majority)
+                    * Lenin's party
+                    * more radical
+                2. Menshevik (minority)
+                    * moderate
+* History
+    * https://www.ducksters.com/history/world_war_i/russian_revolution.php#:~:text=In%20October%20of%201917%2C%20Lenin,communist%20country%20in%20the%20world.&text=After%20the%20revolution%2C%20Russia%20exited,the%20Treaty%20of%20Brest%2DLitovsk.
+
+* International Movement: Communist International (Comintern)
+    * socialist parties split
+        1. Social Democratic Parties
+        2. Communist Parties
+
+* Maoism
+    * person
+        * 毛澤東
+    * extreme form of Communism
+        * guerrilla warfare
+        * revolution
+
+* Titoism
+    * person
+        * Josip Tito
+    * decentralized
+    * try to find the middle ground between market and a controlled economy
+    * result: failed
